@@ -1,0 +1,16 @@
+version = 1
+[custom]
+
+[[custom_groups]]
+import = "snippets/groups.toml"
+
+[[custom_groups]]
+import = "subconverter-config/custom/groups.toml"
+
+[ruleset]
+
+[[rulesets]]
+import = "subconverter-config/custom/rulesets.toml"
+
+[[rulesets]]
+import = "snippets/rulesets.toml"
