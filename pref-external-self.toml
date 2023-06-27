@@ -5,15 +5,21 @@ version = 1
 import = "snippets/groups.toml"
 
 [[custom_groups]]
-import = "custom/groups.toml"
+import = "subconverter-config/custom/groups.toml"
+
+[[custom_groups]]
+import = "subconverter-config/custom/groups-self.toml"
 
 [ruleset]
 
 [[rulesets]]
-import = "custom/rulesets.toml"
+import = "subconverter-config/custom/rulesets-self.toml"
 
 [[rulesets]]
-import = "custom/rulesets_loyalsoldier.toml"
+import = "subconverter-config/custom/rulesets.toml"
+
+[[rulesets]]
+import = "subconverter-config/custom/rulesets_loyalsoldier.toml"
 
 [[rulesets]]
 import = "snippets/rulesets.toml"
