@@ -219,6 +219,9 @@ update_ruleset_on_request = false
 import = "snippets/rulesets.toml"
 
 [[rulesets]]
+import = "custom/rulesets_loyalsoldier.toml"
+
+[[rulesets]]
 import = "custom/rulesets.toml"
 
 [template]
