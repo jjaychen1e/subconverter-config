@@ -1,0 +1,25 @@
+version = 1
+[custom]
+
+[[custom_groups]]
+import = "snippets/groups.toml"
+
+[[custom_groups]]
+import = "custom/groups.toml"
+
+[[custom_groups]]
+import = "custom/groups-self.toml"
+
+[ruleset]
+
+[[rulesets]]
+import = "custom/rulesets-self.toml"
+
+[[rulesets]]
+import = "custom/rulesets.toml"
+
+[[rulesets]]
+import = "custom/rulesets_loyalsoldier.toml"
+
+[[rulesets]]
+import = "snippets/rulesets.toml"
