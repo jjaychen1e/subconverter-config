@@ -13,7 +13,7 @@ import = "subconverter-config/custom/groups.toml"
 import = "subconverter-config/custom/rulesets.toml"
 
 [[rulesets]]
-import = "subconverter-config/custom/rulesets_loyalsoldier.toml"
+import = "subconverter-config/custom/rulesets-loyalsoldier.toml"
 
 [[rulesets]]
 import = "snippets/rulesets.toml"
