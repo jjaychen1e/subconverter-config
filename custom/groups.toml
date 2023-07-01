@@ -1,4 +1,11 @@
 [[custom_groups]]
+name = "♻️ 自动选择"
+type = "url-test"
+rule = [".*(s3|s4|s5).*"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
 name = "💬 ChatGPT"
 type = "select"
 rule = ["[]🔰 节点选择", "[]🎯 全球直连", "[]🛑 全球拦截", ".*"]
