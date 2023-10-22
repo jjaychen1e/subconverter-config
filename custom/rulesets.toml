@@ -1,3 +1,7 @@
 [[rulesets]]
 group = "💬 ChatGPT"
 ruleset = "subconverter-config/custom/rules/ChatGPT.list"
+
+[[rulesets]]
+group = "🔰 节点选择"
+ruleset = "subconverter-config/custom/rules/proxy.list"

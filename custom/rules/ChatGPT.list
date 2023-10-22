@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,openai.com,ChatGPT
-DOMAIN-SUFFIX,identrust.com,ChatGPT
-DOMAIN-SUFFIX,auth0.com,ChatGPT
-DOMAIN-SUFFIX,chat-gpt-next-web.vercel.app,ChatGPT
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chat-gpt-next-web.vercel.app
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
