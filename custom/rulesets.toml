@@ -5,3 +5,7 @@ ruleset = "subconverter-config/custom/rules/ChatGPT.list"
 [[rulesets]]
 group = "🔰 节点选择"
 ruleset = "subconverter-config/custom/rules/proxy.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "subconverter-config/custom/rules/direct.list"
