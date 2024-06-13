@@ -7,6 +7,10 @@ group = "💬 Perplexity"
 ruleset = "subconverter-config/custom/rules/Perplexity.list"
 
 [[rulesets]]
+group = "☁️ Cloudflare"
+ruleset = "subconverter-config/custom/rules/Cloudflare.list"
+
+[[rulesets]]
 group = "🔰 节点选择"
 ruleset = "subconverter-config/custom/rules/proxy.list"
 
