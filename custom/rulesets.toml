@@ -3,6 +3,10 @@ group = "💬 ChatGPT"
 ruleset = "subconverter-config/custom/rules/ChatGPT.list"
 
 [[rulesets]]
+group = " Apple Location"
+ruleset = "subconverter-config/custom/rules/Apple Location.list"
+
+[[rulesets]]
 group = "💬 Perplexity"
 ruleset = "subconverter-config/custom/rules/Perplexity.list"
 
